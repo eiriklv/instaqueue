@@ -1,0 +1,31 @@
+{
+  "name": "instaqueue",
+  "version": "0.2.0",
+  "main": "./lib/main",
+  "description": "Very simple message or action queue",
+  "bugs": {
+    "url": "http://github.com/eiriklv/instaqueue/issues",
+    "email": "evullum@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors": "0.6.x",
+    "async": "0.7.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eiriklv/instaqueue.git"
+  },
+  "keywords": [
+    "queue",
+    "actionqueue",
+    "messagequeue",
+    "simple"
+  ],
+  "author": "Eirik Vullum <evullum@gmail.com> (http://eiriklv.tumblr.com/)",
+  "homepage": "https://github.com/eiriklv/instaqueue"
+}
